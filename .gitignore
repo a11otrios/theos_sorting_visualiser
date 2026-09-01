@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Native builds and packaged output
+build/
+dist/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Earlier local experiments and packaging configuration
+sorting.py
+sorting2.py
+sorting3.py
+sorting4.spec
+tone.wav
