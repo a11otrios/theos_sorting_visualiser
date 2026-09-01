@@ -11,6 +11,12 @@ cocktail shaker, radix, insertion, Tim, radix-merge, and radix-heap sorts. The
 native version also includes silly sort. Controls let you change the array size
 and animation speed, shuffle the values, and stop a running sort.
 
+## Screenshots
+
+| Shuffled array | Quick sort complete |
+| --- | --- |
+| ![The native visualizer showing a shuffled array](docs/images/shuffled-array.png) | ![The native visualizer after quick sort](docs/images/quick-sort-complete.png) |
+
 ## Python version
 
 Python 3.10 or newer is recommended.
